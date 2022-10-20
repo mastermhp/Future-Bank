@@ -1,7 +1,46 @@
 /* transaction */
+.head-color{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: #9e97ad;
+}
+.bank-head-color{
+    background-color: rgb(160, 125, 163);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    margin: 4px 2px;
+    /* cursor: pointer; */
+    color: rgb(255, 255, 255);
+}
+.bank-head-zn-color{
+    background-color: rgb(48, 5, 39);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    /* cursor: pointer; */
+    color: rgb(255, 255, 255);
+}
 .header-color{
     padding: 25px;
-    background-color: #dfd7d9;
+    background-color: #cadee2;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    color: rgb(134, 134, 134);
 }
 /* slider */
 .slider-shirt-bg-info{
@@ -54,6 +93,23 @@
 /* subscriber */
 .subscriber{
     background-color: #88baae;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.login-box{
+    background-color: #88baae;
+    border: none;
+    border-radius: 5px;
+    color: white;
 }
 .green-button{
     background-color: #88baae;
@@ -67,7 +123,6 @@
     font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
-    color: white;
 }
 /* button */
 .button-color{
@@ -82,5 +137,4 @@
     font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
-    color: white;
 }
