@@ -1,0 +1,86 @@
+/* transaction */
+.header-color{
+    padding: 25px;
+    background-color: #dfd7d9;
+}
+/* slider */
+.slider-shirt-bg-info{
+    color: white;
+    background-color: #be7e8a;
+}
+.slider-pant-bg-info{
+    color: white;
+    background-color: #605c69;
+}
+.slider-shoe-bg-info{
+    color: white;
+    background-color: #745237;
+}
+.slider img{
+    margin-top: 10px;
+    padding-top: 10%;
+    height: 350px;
+}
+/* categories */
+.categories-shirt-bg{
+    background-color: rgb(145, 202, 248);
+}
+.categories-pant-bg{
+    background-color: darkgray;
+}
+.categories-tshirt-bg{
+    background-color: rgb(213, 158, 253);
+}
+.categories-shoe-bg{
+    background-color: #fd7b93;
+}
+.categories-hoodie-bg{
+    background-color: rgb(193, 252, 134);
+}
+.categories img{
+    width: 80px;
+    height: 70px;
+}
+/* products */
+.shirt-card img{
+    height: 350px;
+}
+.trouser-card img{
+    height: 400px;
+}
+.full-sleeve-card img{
+    height: 400px;
+}
+/* subscriber */
+.subscriber{
+    background-color: #88baae;
+}
+.green-button{
+    background-color: #88baae;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: white;
+}
+/* button */
+.button-color{
+    background-color: #fd7b93; /* Green */
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: white;
+}
