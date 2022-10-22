@@ -104,7 +104,7 @@ var emailArray=[];
                 return ;
             }
             else {
-                window.location.href = "banking.html";
+                window.location.href = "pin.html";
                 alert(email + " yor are login Now \n welcome to our website.");
 
                 document.getElementById("se").value ="";
