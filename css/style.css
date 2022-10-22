@@ -1,3 +1,7 @@
+/* hide login */
+.hide-section{
+    display: none;
+}
 /* transaction */
 .head-color{
     padding-top: 5px;
